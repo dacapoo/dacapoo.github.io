@@ -253,6 +253,10 @@ z-index: 7744;
     margin-top: 50px;
 }
 
+.header a{
+   font-size: 30px;
+}
+
 .home-page{
     position: relative;
     color: #fff;
