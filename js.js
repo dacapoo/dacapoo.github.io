@@ -1,5 +1,7 @@
 
+const soundd = document.querySelector(".home-page__sound");
 
+soundd.volume = 0.5;
  
 // $(window).ready(function(){
 
