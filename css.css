@@ -76,7 +76,8 @@ body {
 
 p {
 	line-height: 150%;
-	margin: 0 0 10px;
+    margin: 0 0 10px;
+    font-family: "minipax", Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -430,7 +431,7 @@ z-index: 7744;
     margin-top: 10px;
     color:#fff;
     font-size: 20px;
-    font-family: "minipax", Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family: "bluu next", Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 .timeline__event_content p{
