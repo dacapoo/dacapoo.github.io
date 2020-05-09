@@ -58,4 +58,5 @@ setTimeout(function () {
  
 const soundBack = document.getElementById("home-page__sound");
 soundBack.volume = 0.5;
+soundBack.play();
   
